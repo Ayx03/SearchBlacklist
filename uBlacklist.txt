@@ -1,2 +1,3 @@
 *://gpu.userbenchmark.com/*
 *://kknews.cc/*
+*://peekme.cc/*
